@@ -1,7 +1,7 @@
-import 'splitting/dist/splitting.css';
-import 'splitting/dist/splitting-cells.css';
-import Splitting from 'splitting';
-import { randomNumber } from './utils';
+import 'https://unpkg.com/splitting@1.1.0/dist/splitting.css';
+import 'https://unpkg.com/splitting@1.1.0/dist/splitting-cells.css';
+import Splitting from 'https://unpkg.com/splitting@1.1.0/dist/splitting.min.js';
+import { randomNumber } from 'https://cdn.jsdelivr.net/gh/the-snacks/blogger@main/scripts/TypeShuffleAnimation/src/js/utils.js';
 
 /**
  * Class representing one line

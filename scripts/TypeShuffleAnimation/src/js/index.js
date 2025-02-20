@@ -1,5 +1,5 @@
-import { preloadFonts } from './utils';
-import { TypeShuffle } from './typeShuffle';
+import { preloadFonts } from 'https://cdn.jsdelivr.net/gh/the-snacks/blogger@main/scripts/TypeShuffleAnimation/src/js/utils.js';
+import { TypeShuffle } from 'https://cdn.jsdelivr.net/gh/the-snacks/blogger@main/scripts/TypeShuffleAnimation/src/js/typeShuffle.js';
 
 preloadFonts('biu0hfr').then(() => {
     document.body.classList.remove('loading');
