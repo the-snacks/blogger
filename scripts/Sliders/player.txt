@@ -1,0 +1,51 @@
+.audioplayer .player-but .the-icon-bg,
+.audioplayer .playbtn .the-icon-bg,
+.audioplayer .pausebtn .the-icon-bg,
+.audioplayer.skin-wave .ap-controls .scrubbar .scrubBox-hover {
+  background-color: #cf82ec !important;
+}
+.audioplayer .meta-artist .the-artist {
+  color: #cf82ec !important;
+}
+.audioplayer.skin-wave .meta-artist .the-name {
+    color: #ffffff !important;
+    text-shadow: 0 0 2px rgba(0, 0, 0, 0.3);
+}
+  .audioplayer.skin-wave .volumeicon {
+    background: #ffffff;
+}
+  .audioplayer.skin-wave .volumeicon:before {
+    border-right-color: #ffffff;
+}
+.audioplayer.skin-wave .volume_active {
+  background-color: #fff001;
+}
+.audioplayer.skin-wave .volume_static:before {
+    background: rgba(255, 255, 255, .5);
+}
+  
+  /* +++++ */
+  
+.audioplayer.skin-wave .meta-artist .the-artist{
+color:#8fffe0!important;
+}
+.audioplayer.skin-wave .meta-artist .the-songname{
+color:#8fffe0!important;
+}
+
+.audioplayer .playbtn .the-icon-bg{
+background-color: #ff0000;
+}
+.audioplayer.skin-wave .the-thumb-con{
+width: 300px;
+height: 300px;
+}
+.audioplayer.skin-wave .ap-controls .scrubbar .scrub-bg .scrub-bg-img{ opacity:0.5; color:#ffffff}
+.audioplayer.skin-wave .ap-controls .scrubbar .scrubBox-hover{ background-color: #8fffe0; }
+  
+.audioplayer.skin-wave .controls-volume{ width: 51px; } body .audioplayer .volume_static{ width: 36px; }  
+  
+.meta-artist{
+display: flex;
+flex-direction: column-reverse;
+}
