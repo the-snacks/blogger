@@ -261,13 +261,6 @@
 <Variable name="blog.title.font" description="Blog title font" type="font" default="&#39;Roboto&#39;, sans-serif" value="400 14px &#39;Roboto&#39;, sans-serif"/>
 <Variable name="blog.title.color" description="Blog title color" type="color" default="#fff" value="#fcfcfb"/>
 </Group>
-
-<Group description="Personalización de Encabezado">
-  <Variable name="headerStyleFletro" description="Estilo de Encabezado de Post" type="string" default="overlap" value="overlap">
-    <Option description="Por defecto"/>
-    <Option description="Superposición (Estilo WOW)"/>
-  </Variable>
-</Group>
 */
 
 /* Variable color */
@@ -446,23 +439,6 @@
 /* Splitting (Shuffling Typography Animation) */ .random-1, .random-2, .random-3, .random-4, .random-5, .random-6 {display:block; font-family:"Geist Mono", serif; white-space:pre-line;visibility:hidden;} h2.random-1, h2.random-2, h2.random-3, h2.random-4, h2.random-5, h2.random-6{font-size:1.438rem;letter-spacing:-.5px} p.random-1, p.random-2, p.random-3, p.random-4, p.random-5, p.random-6{font-size:0.938rem;letter-spacing:-.3px} .splitting .word, .splitting .char {display:inline-block;} .splitting .char {position:relative;} .splitting .char::before, .splitting .char::after {content:attr(data-char); position:absolute; top:0; left:0; visibility:hidden; transition:inherit; user-select:none;} .splitting {--word-center:calc((var(--word-total) - 1) / 2); --char-center:calc((var(--char-total) - 1) / 2); --line-center:calc((var(--line-total) - 1) / 2);} .splitting .word {--word-percent:calc(var(--word-index) / var(--word-total)); --line-percent:calc(var(--line-index) / var(--line-total));} .splitting .char {--char-percent:calc(var(--char-index) / var(--char-total)); --char-offset:calc(var(--char-index) - var(--char-center)); --distance:calc( (var(--char-offset) * var(--char-offset)) / var(--char-center) ); --distance-sine:calc(var(--char-offset) / var(--char-center)); --distance-percent:calc((var(--distance) / var(--char-center)));} .splitting.cells img {width:100%; display:block;} @supports ( display: grid ) {.splitting.cells {position:relative; overflow:hidden; background-size:cover; visibility:hidden;} .splitting .cell-grid {background:inherit; position:absolute; top:0; left:0; width:100%; height:100%; display:grid; grid-template:repeat( var(--row-total), 1fr ) / repeat( var(--col-total), 1fr );} .splitting .cell {background:inherit; position:relative; overflow:hidden;} .splitting .cell-inner {background:inherit; position:absolute; visibility:visible; width:calc(100% * var(--col-total)); height:calc(100% * var(--row-total)); left:calc(-100% * var(--col-index)); top:calc(-100% * var(--row-index));} .splitting .cell {--center-x:calc((var(--col-total) - 1) / 2); --center-y:calc((var(--row-total) - 1) / 2); --offset-x:calc(var(--col-index) - var(--center-x)); --offset-y:calc(var(--row-index) - var(--center-y)); --distance-x:calc( (var(--offset-x) * var(--offset-x)) / var(--center-x) ); --distance-y:calc( (var(--offset-y) * var(--offset-y)) / var(--center-y) );}}
 
 /* Extracting First Letter from comment author name */ .cmAv .im{position:relative;width:35px;height:35px;background-size:cover;}.cmAv .im span{position:absolute;top:0;left:0;color:#524c46;text-transform:uppercase;border-radius:50%;width:35px;height:35px;display:flex;align-items:center;justify-content:center;font-size:18px;}
-
-
-
-
-
-
-.custom-header-overlap { position: relative; color: #fff; text-align: left; margin-bottom: 2em; font-family: inherit; z-index: 2;}
-.custom-header-overlap .header-image-wrap { position: relative;}
-.custom-header-overlap .header-image { display: block; width: 132%; max-width: 132%; margin: 0 -16%; border-radius: 14px; object-fit: cover; filter: brightness(0.87) contrast(1.05); box-shadow: 0 4px 32px rgba(0,0,0,0.09);}
-@media (max-width: 900px) {.custom-header-overlap .header-image { width: 100%; max-width: 100%; margin: 0; border-radius: 10px;}}
-.custom-header-overlap .header-overlay { position: absolute; left: 0; right: 0; top: 0; bottom: 0; background: linear-gradient(to bottom,rgba(0,0,0,0.38) 40%,rgba(0,0,0,0.49) 100%); z-index: 2; border-radius: 14px;}
-.custom-header-overlap .header-content { position: absolute; left: 0; right: 0; bottom: 2em; z-index: 3; padding: 2.2em 3em; color: #fff; text-align: left;}
-.custom-header-overlap .header-content h1 { color: #fff; font-size: 2.2em; font-weight: 700; margin: 0 0 0.5em 0; text-shadow: 0 2px 14px rgba(0,0,0,0.23); line-height: 1.08;}
-.custom-header-overlap .meta-data { font-size: 1em; color: #eaeaea; font-weight: 400; text-shadow: 0 2px 14px rgba(0,0,0,0.18);}
-.custom-header-overlap .meta-author b { color: #fff; font-weight: 700; }
-@media (max-width: 600px) {.custom-header-overlap .header-content { padding: 1.1em 0.6em; bottom: 0.6em;} .custom-header-overlap .header-content h1 { font-size: 1.3em;}}
-
 
 /* Responsive */
 @media screen and (min-width:897px){/* Header */ .headL .headN{width:100%} .headL, .headR{z-index:1} .headM .HTML + .PageList, .headL .headIc{display:none} .headM{display:flex;align-items:center;justify-content:center;max-width:calc(100% - 350px);height:100%;position:absolute;left:0;right:0;margin:0 auto} /* mainIn */ .mainIn, .blogM{display:flex} .blogCont{padding-top:0px;padding-bottom:30px} .mainbar{flex:1 0 calc(100% - 0px) !important;width:100%; transition:var(--trans-2)} /* mainNav */ .mnH{display:none} .mnMob, .mnMn svg:not(.d){display:none} .mnMn{display:block;position:relative;width:calc(100% + 25px);left:-12.5px;right:-12.5px} .mnMn >li{display:inline-flex; align-items:center;margin:0 12.5px;position:relative;white-space:nowrap;height:var(--headerH);font-size:16px;letter-spacing: .18px;} .mnMn >li:hover ul{max-height:100vh; opacity:1;visibility:visible} .mnMn >li:last-child ul{left:auto;border-radius:16px 5px 16px 16px} .mnMn ul{display:block; position:absolute;top:calc(var(--headerH) - 15px);left:-15px;right:-15px; min-width:180px; max-height:0vh; background:#fdfdfb /*var(--contentB)*/; box-shadow:0 10px 20px -10px rgba(0,0,0,.3); border-radius:5px 16px 16px 16px; transition:var(--trans-1); opacity:0;visibility:hidden;z-index:1; overflow:hidden} .mnMn ul li >*{display:block;padding:10px 15px} .mnMn ul li >*:hover{background:var(--transB)} .mnMn .a{display:inline-flex;align-items:center;display: inline;padding-bottom: 3px;background-image: linear-gradient(to right, currentColor 0%, currentColor 80%, rgba(82, 76, 70, 0) 100%);;background-position: 0 100%;background-repeat: no-repeat;background-size: 0 .5px;box-sizing: border-box;transition: background-size 0.6s ease, color 0.6s ease;text-decoration: none;color: var(--headerC);} .mnMn .a:hover{color:var(--headerC);background-size: 100% .6px;} .mnMn .a:hover::after{opacity:1} .mnMn .a::after{/*content:'';border-bottom:1px solid var(--linkC);position:absolute;bottom:-1px;left:0;right:0;opacity:0*/} .mnMn .drp .n::after{content:'';padding:0 3px;flex:0 0}} /* Indicator ToC */ .tocC:before{content:'';display:block;width:12px;height:12px;background-color:var(--linkC);border:2px solid var(--bodyB);border-radius:50%;position:absolute;top:5px;left:12px;animation:indicator 1s ease infinite;-webkit-animation:indicator 1.5s ease infinite;z-index:1} .drk .tocC:before{background-color: #ab9ff2} @-webkit-keyframes indicator{0%{opacity:0}50%{opacity:1}100%{opacity:0}}@keyframes indicator{0%{opacity:0}50%{opacity:1}100%{opacity:0}scrollbar-width:thin;scrollbar-color:rgba(0,0,0,.15) auto;}
@@ -2697,62 +2673,6 @@ class TableOfContents { constructor({ from, to }) { this.fromElement = from; thi
                     
                           <!--[ Post brdCmb ]-->
                           <b:include cond='data:view.isSingleItem' data='post' name='breadcrumb'/>
-                          
-                          
-<!-- [ Post brdCmb ] -->
-<b:include cond='data:view.isSingleItem' data='post' name='breadcrumb'/>
-
-<!-- [ Encabezado WOW o estándar ] -->
-<b:if cond='data:view.isSingleItem and data:theme.headerStyleFletro == &quot;overlap&quot; and data:post.featuredImage'>
-  <div class='custom-header-overlap'>
-    <div class='header-image-wrap'>
-      <img alt='Imagen de portada' class='header-image' expr:src='data:post.featuredImage'/>
-      <div class='header-overlay'/>
-      <div class='header-content'>
-        <h1 class='post-title'><data:post.title/></h1>
-        <div class='meta-data'>
-          <span class='meta-author'><data:post.author.name/></span>
-          <span class='meta-date'><data:post.date/></span>
-          <b:if cond='data:blog.metaDescription'>
-            <span class='meta-desc'><data:blog.metaDescription/></span>
-          </b:if>
-        </div>
-      </div>
-    </div>
-  </div>
-<b:else/>
-  <!-- Encabezado normal para post individual o lista -->
-  <b:include cond='data:view.isMultipleItems' name='postHeaders'/>
-  <!--[ Post title ]-->
-  <b:tag class='pTtl aTtl' expr:name='data:post.link or (data:post.url and data:view.url != data:post.url) ? &quot;h2&quot; : &quot;h1&quot;'>
-    <b:class cond='data:view.isSingleItem' name='itm'/>
-    <b:class cond='data:post.labels any (label =&gt; label.name in [ &quot;Sponsored&quot; ])' name='nSpr'/>
-    <b:tag expr:name='data:post.link or (data:post.url and data:view.url != data:post.url) ? &quot;a&quot; : &quot;span&quot;'>
-      <b:attr cond='data:post.link or (data:post.url and data:view.url != data:post.url)' expr:value='data:post.url.canonical' name='href'/>
-      <b:attr cond='data:post.link or (data:post.url and data:view.url != data:post.url)' expr:value='data:post.title' name='data-text'/>
-      <b:attr cond='data:post.link or (data:post.url and data:view.url != data:post.url)' name='rel' value='bookmark'/>
-      <data:post.title/>
-    </b:tag>
-  </b:tag>
-  <b:if cond='data:view.isPost or data:view.isPage'>
-    <!-- Post Description -->
-    <div class='pDesc'><data:blog.metaDescription/></div>
-  </b:if>
-  <b:if cond='data:view.isMultipleItems'>
-    <!--[ Post snippets ]-->
-    <div class='pSnpt'>
-      <b:include name='postEntrySnippet'/>
-    </div>
-  </b:if>
-  <!--[ Post info ]-->
-  <b:include cond='!data:view.isPage' name='postInfo'/>
-  <!--[ Share button ]-->
-  <b:include cond='data:post.shareUrl and data:view.isPost and !data:view.isPreview' name='postInfoShare'/>
-  <!--[ Change post font size ]-->
-  <b:include cond='data:view.isPost and !data:view.isPreview' name='postFontInput'/>
-  <b:include cond='data:view.isPost and !data:view.isPreview' name='postFontEntry'/>
-</b:if>
-                          
                         
                           <b:if cond='data:view.isMultipleItems'>
                             <!--[ Post thumbnail and labels ]-->
@@ -2783,22 +2703,41 @@ class TableOfContents { constructor({ from, to }) { this.fromElement = from; thi
                           <b:tag class='pCntn' cond='data:view.isMultipleItems' name='div'>
                               
                             <!--[ Post header ]-->
+                            <b:include cond='data:view.isMultipleItems' name='postHeaders'/>
                           
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
+                            <!--[ Post title ]-->
+                            <b:tag class='pTtl aTtl' expr:name='data:post.link or (data:post.url and data:view.url != data:post.url) ? &quot;h2&quot; : &quot;h1&quot;'>
+                              <b:class cond='data:view.isSingleItem' name='itm'/>
+                              <b:class cond='data:post.labels any (label =&gt; label.name in [ &quot;Sponsored&quot; ])' name='nSpr'/>
+                              <b:tag expr:name='data:post.link or (data:post.url and data:view.url != data:post.url) ? &quot;a&quot; : &quot;span&quot;'>
+                                <b:attr cond='data:post.link or (data:post.url and data:view.url != data:post.url)' expr:value='data:post.url.canonical' name='href'/>
+                                <b:attr cond='data:post.link or (data:post.url and data:view.url != data:post.url)' expr:value='data:post.title' name='data-text'/>
+                                <b:attr cond='data:post.link or (data:post.url and data:view.url != data:post.url)' name='rel' value='bookmark'/>
+                                <data:post.title/>
+                              </b:tag>
+                            </b:tag>
+                              
+                            <b:if cond='data:view.isPost or data:view.isPage'>
+                              <!-- Post Description -->
+                              <div class='pDesc'><data:blog.metaDescription/></div>
+                            </b:if>
+                          
+                            <b:if cond='data:view.isMultipleItems'>
+                              <!--[ Post snippets ]-->
+                              <div class='pSnpt'>
+                                <b:include name='postEntrySnippet'/>
+                              </div>
+                            </b:if>
+                        
+                            <!--[ Post info ]-->
+                            <b:include cond='!data:view.isPage' name='postInfo'/>
+                          
+                            <!--[ Share button ]-->
+                            <b:include cond='data:post.shareUrl and data:view.isPost and !data:view.isPreview' name='postInfoShare'/>
+                          
+                            <!--[ Change post font size ]-->
+                            <b:include cond='data:view.isPost and !data:view.isPreview' name='postFontInput'/>
+                            <b:include cond='data:view.isPost and !data:view.isPreview' name='postFontEntry'/>
                         
                             <b:tag class='pInr' cond='data:view.isSingleItem' name='div'>
                               <b:if cond='data:post.labels none (label =&gt; label.name in [ &quot;Sponsored&quot; ])'>
@@ -4467,132 +4406,13 @@ TWL_HPR.ifDomCttLded(function () {
     
 <script>/*<![CDATA[*/ /* Floating button to share */ (function(){var btn=document.querySelector(".side-btn.side-share");if(!btn)return;var footer=document.querySelector("footer, #footer, .footer");function onScrollShowBtn(){var scrollY=window.scrollY||window.pageYOffset;var windowH=window.innerHeight||document.documentElement.clientHeight;var showAt=150;var atFooter=false;if(footer){var footerRect=footer.getBoundingClientRect();atFooter=footerRect.top<windowH-80}if(atFooter){btn.classList.remove("sb-visible");btn.classList.add("sb-hidden")}else if(scrollY>showAt){btn.classList.add("sb-visible");btn.classList.remove("sb-hidden")}else{btn.classList.remove("sb-visible");btn.classList.add("sb-hidden")}}btn.classList.add("sb-hidden");window.addEventListener("scroll",onScrollShowBtn,{passive:true});window.addEventListener("resize",onScrollShowBtn);document.addEventListener("DOMContentLoaded",onScrollShowBtn)})(); /*]]>*/</script> 
    
+
     
     
-<script>/*<![CDATA[*/ /* Style of headers in publications */
-document.addEventListener('DOMContentLoaded', function() {
-  // Configuraciones:
-  const minWidth = 400; // Mínimo en px para considerar la imagen como portada
-  const styleClasses = ['style-header-1', 'style-header-2', 'style-header-3', 'style-header-4'];
-  const containerSelector = '.post-body, .entry-content';
-  const article = document.querySelector('article') || document.querySelector('.post') || document.body;
-  let styleClass = styleClasses.find(c => article.classList.contains(c)) || 'default-header';
-
-  // Selección del contenedor principal de contenido
-  const content = document.querySelector(containerSelector);
-  if (!content) return;
-
-  // Buscar la primera imagen válida
-  let headerImage, imageSrc, imageAlt = '';
-  let foundInFigure = false;
-
-  // Buscar imagen dentro de figure
-  const figures = content.querySelectorAll('figure img');
-  for (let img of figures) {
-    if (img.naturalWidth >= minWidth || img.width >= minWidth) {
-      headerImage = img.cloneNode(true);
-      imageSrc = img.src;
-      imageAlt = img.alt || '';
-      foundInFigure = true;
-      break;
-    }
-  }
-  // Si no está en figure, buscar img suelta
-  if (!headerImage) {
-    const imgs = content.querySelectorAll('img');
-    for (let img of imgs) {
-      if ((img.naturalWidth >= minWidth || img.width >= minWidth) && !img.closest('figure')) {
-        headerImage = img;
-        imageSrc = img.src;
-        imageAlt = img.alt || '';
-        foundInFigure = false;
-        break;
-      }
-    }
-  }
-  // Si no hay imagen válida, no hacer nada
-  if (!headerImage || !imageSrc) return;
-
-  // Crear el bloque de encabezado personalizado
-  let headerHtml = '';
-  // Obtener título y meta (ajusta los selectores según tu plantilla)
-  const postTitle = document.querySelector('.post-title, h1.post-title, .entry-title, h1')?.textContent || '';
-  const postMetaAuthor = document.querySelector('.post-author, .author, [itemprop=author]')?.textContent || '';
-  const postMetaDate = document.querySelector('.post-date, time, [itemprop=datePublished]')?.textContent || '';
-  const postMetaDesc = document.querySelector('.post-description')?.textContent || '';
-
-  // HTML para metadatos (ajusta según tus necesidades)
-  const metaHtml = `<div class="meta-data">
-    ${postMetaAuthor ? `<span class="meta-author">${postMetaAuthor}</span> ` : ''}
-    ${postMetaDate ? `<span class="meta-date">${postMetaDate}</span>` : ''}
-    ${postMetaDesc ? `<span class="meta-desc">${postMetaDesc}</span>` : ''}
-  </div>`;
-
-  // Generar el header según el estilo
-  switch (styleClass) {
-    // Estilo 1: Título arriba, imagen abajo
-    case 'style-header-1':
-    case 'default-header':
-      headerHtml = `
-        <div class="custom-header">
-          <h1>${postTitle}</h1>
-          ${metaHtml}
-          <img src="${imageSrc}" alt="${imageAlt}" class="header-image"/>
-        </div>`;
-      break;
-    // Estilo 2: Imagen arriba, fade, título/meta abajo
-    case 'style-header-2':
-      headerHtml = `
-        <div class="custom-header">
-          <div class="header-image-wrap">
-            <img src="${imageSrc}" alt="${imageAlt}" class="header-image"/>
-            <div class="header-fade"></div>
-          </div>
-          <div class="header-content">
-            <h1>${postTitle}</h1>
-            ${metaHtml}
-          </div>
-        </div>`;
-      break;
-    // Estilo 3: Título/meta sobre la imagen
-    case 'style-header-3':
-      headerHtml = `
-        <div class="custom-header">
-          <div class="header-image-wrap">
-            <img src="${imageSrc}" alt="${imageAlt}" class="header-image"/>
-            <div class="header-overlay"></div>
-            <div class="header-content">
-              <h1>${postTitle}</h1>
-              ${metaHtml}
-            </div>
-          </div>
-        </div>`;
-      break;
-    // Estilo 4: Imagen a la izquierda, texto a la derecha
-    case 'style-header-4':
-      headerHtml = `
-        <div class="custom-header">
-          <img src="${imageSrc}" alt="${imageAlt}" class="header-image"/>
-          <div class="header-content">
-            <h1>${postTitle}</h1>
-            ${metaHtml}
-          </div>
-        </div>`;
-      break;
-  }
-
-  // Insertar el header antes del contenido principal
-  content.insertAdjacentHTML('beforebegin', headerHtml);
-
-  // Eliminar la imagen original del contenido (si no era de figure)
-  if (!foundInFigure && headerImage && headerImage.parentElement) {
-    headerImage.parentElement.removeChild(headerImage);
-  }
-  // Si era de figure, no se elimina nada (queda como está)
-});
-/*]]>*/</script> 
     
 
+    
+    
     
   <!--[ </body> close ]-->
   &lt;!--</body>--&gt;&lt;/body&gt;
