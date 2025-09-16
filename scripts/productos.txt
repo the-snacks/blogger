@@ -1,0 +1,668 @@
+<!-- ========================================
+     CÓDIGO CSS - PRODUCTOS Y WHATSAPP
+     ======================================== -->
+
+
+        /* Estilos para los badges de productos en carousel-2 */
+        .product-badge {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            z-index: 2;
+            backdrop-filter: blur(8px);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+        }
+
+        .product-badge--available {
+            background: rgba(34, 197, 94, 0.9);
+            color: white;
+        }
+
+        .product-badge--sold-out {
+            background: rgba(239, 68, 68, 0.9);
+            color: white;
+        }
+
+        .product-badge--limited {
+            background: rgba(245, 158, 11, 0.9);
+            color: white;
+        }
+
+        .product-price {
+            position: absolute;
+            bottom: 8px;
+            left: 8px;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 4px 8px;
+            border-radius: 8px;
+            font-size: 12px;
+            font-weight: 600;
+            backdrop-filter: blur(4px);
+            z-index: 2;
+        }
+
+        /* Estilos para carousel-1 badges (más pequeños) */
+        .carousel-1 .product-badge {
+            top: 6px;
+            right: 6px;
+            padding: 3px 6px;
+            font-size: 10px;
+            border-radius: 8px;
+        }
+
+        .carousel-1 .product-price {
+            bottom: 6px;
+            left: 6px;
+            padding: 3px 6px;
+            font-size: 11px;
+            border-radius: 6px;
+        }
+
+        /* Animación de envío WhatsApp */
+        .whatsapp-sending {
+            transform: scale(0.95);
+            opacity: 0.7;
+            transition: all 0.2s ease;
+        }
+
+        /* Indicador de producto en títulos del carousel */
+        .product-indicator {
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            background: #10b981;
+            border-radius: 50%;
+            margin-right: 6px;
+            vertical-align: middle;
+        }
+
+
+
+
+<!-- ========================================
+     CÓDIGO JS - PRODUCTOS Y WHATSAPP
+     ======================================== -->
+
+
+<script>/* <![CDATA[ */
+/*!
+ * WhatsApp Products Integration for Blogger
+ * Optimized for performance and compatibility
+ * Author: Assistant Claude
+ */
+
+(function() {
+    'use strict';
+    
+    // ============================================================================
+    // CONFIGURACIÓN PRINCIPAL
+    // ============================================================================
+    
+    const CONFIG = {
+        // Número de WhatsApp (formato internacional)
+        whatsappNumber: '59169254564',
+        
+        // Template del mensaje WhatsApp
+        messageTemplate: {
+            product: `¡Hola! 👋\n\nEstoy interesado en este producto:\n\n📦 *{productName}*\n💰 Precio: *{price}*\n📋 Estado: *{stock}*\n🔗 Link: {productUrl}\n\n¿Podrías darme más información?`,
+            fallback: `¡Hola! 👋\n\nVi este producto en tu sitio web y me gustaría más información:\n{productUrl}`
+        },
+        
+        // Configuraciones de rendimiento
+        performance: {
+            debounceDelay: 150,
+            observerThreshold: 0.1,
+            cacheTimeout: 0, // Sin cache
+            maxRetries: 3
+        },
+        
+        // Selectores CSS
+        selectors: {
+            productPost: '.pS:has(stock), .pS:has(price)', // Posts que contienen elementos de producto
+            carousel1: '.carousel-1',
+            carousel2: '.carousel-2',
+            carouselSlides: '.carousel__slide, .carousel2__slide',
+            buyButton: '.buy-now-btn',
+            stock: 'stock',
+            price: 'price',
+            productImage: '.post2-thumbnail, .postCarousel-thumbnail'
+        }
+    };
+    
+    // ============================================================================
+    // SISTEMA DE CACHE Y UTILIDADES
+    // ============================================================================
+    
+    const Cache = {
+        data: new Map(),
+        
+        set(key, value, ttl = CONFIG.performance.cacheTimeout) {
+            this.data.set(key, {
+                value,
+                expires: Date.now() + ttl
+            });
+        },
+        
+        get(key) {
+            const item = this.data.get(key);
+            if (!item) return null;
+            
+            if (Date.now() > item.expires) {
+                this.data.delete(key);
+                return null;
+            }
+            
+            return item.value;
+        },
+        
+        clear() {
+            this.data.clear();
+        }
+    };
+    
+    // Utilidades de rendimiento
+    const Utils = {
+        // Debounce optimizado
+        debounce(func, wait, immediate = false) {
+            let timeout;
+            return function executedFunction(...args) {
+                const later = () => {
+                    timeout = null;
+                    if (!immediate) func(...args);
+                };
+                
+                const callNow = immediate && !timeout;
+                clearTimeout(timeout);
+                timeout = setTimeout(later, wait);
+                
+                if (callNow) func(...args);
+            };
+        },
+        
+        // Throttle para eventos de scroll/resize
+        throttle(func, limit) {
+            let inThrottle;
+            return function() {
+                const args = arguments;
+                const context = this;
+                if (!inThrottle) {
+                    func.apply(context, args);
+                    inThrottle = true;
+                    setTimeout(() => inThrottle = false, limit);
+                }
+            }
+        },
+        
+        // Validador de URL
+        isValidUrl(string) {
+            try {
+                new URL(string);
+                return true;
+            } catch (_) {
+                return false;
+            }
+        },
+        
+        // Sanitizador de texto
+        sanitizeText(text) {
+            if (!text) return '';
+            return text.toString().trim().replace(/\s+/g, ' ');
+        },
+        
+        // Extractor de número de precio
+        extractPrice(priceText) {
+            if (!priceText) return null;
+            const match = priceText.match(/[\d.,]+/);
+            return match ? match[0] : priceText;
+        }
+    };
+    
+    // ============================================================================
+    // DETECTOR DE PRODUCTOS
+    // ============================================================================
+    
+    const ProductDetector = {
+        // Cache de productos detectados
+        detectedProducts: new Map(),
+        
+        // Detecta si un post es un producto
+        isProduct(postElement) {
+            if (!postElement) return false;
+            
+            const cacheKey = postElement.dataset.productId || postElement.innerText.slice(0, 100);
+            const cached = Cache.get(`product_${cacheKey}`);
+            if (cached !== null) return cached;
+            
+            // Buscar indicadores de producto
+            const hasStock = postElement.querySelector(CONFIG.selectors.stock);
+            const hasPrice = postElement.querySelector(CONFIG.selectors.price);
+            const hasBuyButton = postElement.querySelector(CONFIG.selectors.buyButton);
+            
+            const isProduct = !!(hasStock || hasPrice || hasBuyButton);
+            Cache.set(`product_${cacheKey}`, isProduct);
+            
+            return isProduct;
+        },
+        
+        // Extrae información del producto
+        extractProductInfo(postElement) {
+            if (!this.isProduct(postElement)) return null;
+            
+            const titleElement = postElement.querySelector('h1, h2, h3, .post-title, .entry-title') ||
+                                postElement.querySelector('[class*="title"]');
+            
+            const stockElement = postElement.querySelector(CONFIG.selectors.stock);
+            const priceElement = postElement.querySelector(CONFIG.selectors.price);
+            
+            return {
+                name: Utils.sanitizeText(titleElement?.textContent || 'Producto'),
+                price: Utils.sanitizeText(priceElement?.textContent || 'Precio no especificado'),
+                stock: Utils.sanitizeText(stockElement?.textContent || 'Consultar disponibilidad'),
+                url: window.location.href,
+                isAvailable: this.checkAvailability(stockElement?.textContent || '')
+            };
+        },
+        
+        // Verifica disponibilidad del producto
+        checkAvailability(stockText) {
+            const text = stockText.toLowerCase();
+            if (text.includes('in stock') || text.includes('disponible') || text.includes('en stock')) {
+                return 'available';
+            }
+            if (text.includes('out of stock') || text.includes('agotado') || text.includes('sin stock')) {
+                return 'sold-out';
+            }
+            if (text.includes('limited') || text.includes('limitado') || text.includes('últimas')) {
+                return 'limited';
+            }
+            return 'available';
+        }
+    };
+    
+    // ============================================================================
+    // INTEGRACIÓN CON WHATSAPP
+    // ============================================================================
+    
+    const WhatsAppIntegration = {
+        // Construye el mensaje de WhatsApp
+        buildMessage(productInfo) {
+            if (!productInfo) return CONFIG.messageTemplate.fallback.replace('{productUrl}', window.location.href);
+            
+            return CONFIG.messageTemplate.product
+                .replace('{productName}', productInfo.name)
+                .replace('{price}', productInfo.price)
+                .replace('{stock}', productInfo.stock)
+                .replace('{productUrl}', productInfo.url);
+        },
+        
+        // Construye URL de WhatsApp
+        buildWhatsAppUrl(message) {
+            const encodedMessage = encodeURIComponent(message);
+            return `https://wa.me/${CONFIG.whatsappNumber}?text=${encodedMessage}`;
+        },
+        
+        // Envía mensaje a WhatsApp
+        sendToWhatsApp(productInfo, buttonElement) {
+            try {
+                // Animación del botón
+                if (buttonElement) {
+                    buttonElement.classList.add('whatsapp-sending');
+                    setTimeout(() => {
+                        buttonElement.classList.remove('whatsapp-sending');
+                    }, 200);
+                }
+                
+                const message = this.buildMessage(productInfo);
+                const whatsappUrl = this.buildWhatsAppUrl(message);
+                
+                // Abrir WhatsApp
+                const link = document.createElement('a');
+                link.href = whatsappUrl;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                
+                // Trigger click
+                document.body.appendChild(link);
+                link.click();
+                document.body.removeChild(link);
+                
+                // Analytics básico
+                this.trackEvent('whatsapp_click', productInfo);
+                
+                return true;
+            } catch (error) {
+                console.error('Error al enviar WhatsApp:', error);
+                return false;
+            }
+        },
+        
+        // Tracking básico de eventos
+        trackEvent(event, data) {
+            try {
+                if (typeof gtag === 'function') {
+                    gtag('event', event, {
+                        custom_parameter: data?.name || 'unknown_product'
+                    });
+                }
+                
+                // Console log para debug
+                console.log(`WhatsApp Products: ${event}`, data);
+            } catch (error) {
+                // Silenciar errores de tracking
+            }
+        }
+    };
+    
+    // ============================================================================
+    // GESTOR DE BADGES PARA CAROUSELS
+    // ============================================================================
+    
+    const BadgeManager = {
+        // Añade badges a slides de carousel
+        addBadgesToSlide(slide, productInfo) {
+            if (!productInfo || !slide) return;
+            
+            const imageContainer = slide.querySelector(CONFIG.selectors.productImage);
+            if (!imageContainer) return;
+            
+            // Evitar duplicados
+            if (imageContainer.querySelector('.product-badge, .product-price')) return;
+            
+            // Crear badge de disponibilidad
+            const availabilityBadge = this.createAvailabilityBadge(productInfo.isAvailable);
+            if (availabilityBadge) {
+                imageContainer.style.position = 'relative';
+                imageContainer.appendChild(availabilityBadge);
+            }
+            
+            // Crear badge de precio
+            const priceBadge = this.createPriceBadge(productInfo.price);
+            if (priceBadge) {
+                imageContainer.appendChild(priceBadge);
+            }
+            
+            // Añadir indicador al título
+            this.addTitleIndicator(slide);
+        },
+        
+        // Crea badge de disponibilidad
+        createAvailabilityBadge(availability) {
+            const badge = document.createElement('div');
+            badge.className = `product-badge product-badge--${availability}`;
+            
+            const text = {
+                'available': 'Disponible',
+                'sold-out': 'Agotado',
+                'limited': 'Limitado'
+            };
+            
+            badge.textContent = text[availability] || text.available;
+            return badge;
+        },
+        
+        // Crea badge de precio
+        createPriceBadge(price) {
+            if (!price || price === 'Precio no especificado') return null;
+            
+            const badge = document.createElement('div');
+            badge.className = 'product-price';
+            badge.textContent = Utils.extractPrice(price);
+            return badge;
+        },
+        
+        // Añade indicador al título
+        addTitleIndicator(slide) {
+            const titleElement = slide.querySelector('.post2-title a, .postCarousel-title a');
+            if (!titleElement || titleElement.querySelector('.product-indicator')) return;
+            
+            const indicator = document.createElement('span');
+            indicator.className = 'product-indicator';
+            indicator.title = 'Producto disponible';
+            
+            titleElement.insertBefore(indicator, titleElement.firstChild);
+        }
+    };
+    
+    // ============================================================================
+    // CONTROLADOR PRINCIPAL
+    // ============================================================================
+    
+    const ProductsController = {
+        // Inicialización
+        init() {
+            this.bindBuyButtons();
+            this.observeCarousels();
+            this.bindKeyboardEvents();
+            
+            // Re-inicializar cuando cambien las páginas (SPA support)
+            this.observePageChanges();
+        },
+        
+        // Vincula botones de compra
+        bindBuyButtons() {
+            const debouncedHandler = Utils.debounce(this.handleBuyClick.bind(this), CONFIG.performance.debounceDelay);
+            
+            document.addEventListener('click', (event) => {
+                if (event.target.matches(CONFIG.selectors.buyButton)) {
+                    event.preventDefault();
+                    debouncedHandler(event);
+                }
+            });
+        },
+        
+        // Maneja click en botón de compra
+        handleBuyClick(event) {
+            const button = event.target;
+            const postElement = button.closest('.pS, article, [class*="post"]') || 
+                               button.closest('*');
+            
+            if (!postElement) {
+                console.warn('No se encontró el elemento del post');
+                return;
+            }
+            
+            const productInfo = ProductDetector.extractProductInfo(postElement);
+            const success = WhatsAppIntegration.sendToWhatsApp(productInfo, button);
+            
+            if (!success) {
+                // Fallback: abrir WhatsApp sin mensaje personalizado
+                const fallbackUrl = `https://wa.me/${CONFIG.whatsappNumber}`;
+                window.open(fallbackUrl, '_blank', 'noopener,noreferrer');
+            }
+        },
+        
+        // Observa carousels para añadir badges
+        observeCarousels() {
+            const observerOptions = {
+                root: null,
+                rootMargin: '50px',
+                threshold: CONFIG.performance.observerThreshold
+            };
+            
+            const carouselObserver = new IntersectionObserver(
+                Utils.throttle(this.handleCarouselSlides.bind(this), 100),
+                observerOptions
+            );
+            
+            // Observar carousels existentes
+            document.querySelectorAll(`${CONFIG.selectors.carousel1}, ${CONFIG.selectors.carousel2}`)
+                .forEach(carousel => carouselObserver.observe(carousel));
+            
+            // Observar carousels dinámicos
+            const mutationObserver = new MutationObserver((mutations) => {
+                mutations.forEach(mutation => {
+                    mutation.addedNodes.forEach(node => {
+                        if (node.nodeType === Node.ELEMENT_NODE) {
+                            const carousels = node.matches?.(`${CONFIG.selectors.carousel1}, ${CONFIG.selectors.carousel2}`) 
+                                ? [node] 
+                                : node.querySelectorAll?.(`${CONFIG.selectors.carousel1}, ${CONFIG.selectors.carousel2}`) || [];
+                            
+                            carousels.forEach(carousel => carouselObserver.observe(carousel));
+                        }
+                    });
+                });
+            });
+            
+            mutationObserver.observe(document.body, {
+                childList: true,
+                subtree: true
+            });
+        },
+        
+        // Procesa slides de carousel
+        handleCarouselSlides(entries) {
+            entries.forEach(entry => {
+                if (!entry.isIntersecting) return;
+                
+                const carousel = entry.target;
+                const slides = carousel.querySelectorAll(CONFIG.selectors.carouselSlides);
+                
+                slides.forEach(slide => this.processSlide(slide));
+            });
+        },
+        
+        // Procesa un slide individual
+        processSlide(slide) {
+            if (!slide || slide.dataset.processed === 'true') return;
+            
+            try {
+                // Buscar link del post en el slide
+                const postLink = slide.querySelector('a[href]');
+                if (!postLink) return;
+                
+                const postUrl = postLink.href;
+                const cacheKey = `slide_${postUrl}`;
+                
+                // Verificar cache
+                const cachedInfo = Cache.get(cacheKey);
+                if (cachedInfo) {
+                    if (cachedInfo.isProduct) {
+                        BadgeManager.addBadgesToSlide(slide, cachedInfo);
+                    }
+                    slide.dataset.processed = 'true';
+                    return;
+                }
+                
+                // Detectar si es producto por la URL o contenido visible
+                this.checkIfSlideIsProduct(slide, postUrl, cacheKey);
+                
+            } catch (error) {
+                console.warn('Error procesando slide:', error);
+                slide.dataset.processed = 'true';
+            }
+        },
+        
+        // Verifica si un slide es de producto
+        checkIfSlideIsProduct(slide, postUrl, cacheKey) {
+            // Método 1: Verificar por etiquetas en el slide
+            const slideText = slide.textContent.toLowerCase();
+            const hasProductKeywords = /product|precio|price|\$|€|£|disponible|stock/i.test(slideText);
+            
+            if (hasProductKeywords) {
+                // Extraer info básica del slide
+                const titleElement = slide.querySelector('h3, h2, .post2-title a, .postCarousel-title a');
+                const productInfo = {
+                    name: Utils.sanitizeText(titleElement?.textContent || 'Producto'),
+                    price: this.extractPriceFromSlide(slide),
+                    stock: 'Disponible',
+                    url: postUrl,
+                    isAvailable: 'available',
+                    isProduct: true
+                };
+                
+                Cache.set(cacheKey, productInfo);
+                BadgeManager.addBadgesToSlide(slide, productInfo);
+            } else {
+                // Cachear como no-producto
+                Cache.set(cacheKey, { isProduct: false });
+            }
+            
+            slide.dataset.processed = 'true';
+        },
+        
+        // Extrae precio del slide
+        extractPriceFromSlide(slide) {
+            const text = slide.textContent;
+            const priceMatch = text.match(/\$[\d.,]+|€[\d.,]+|£[\d.,]+|[\d.,]+\s*(?:USD|EUR|GBP|BOB|\$)/i);
+            return priceMatch ? priceMatch[0] : null;
+        },
+        
+        // Soporte para navegación por teclado
+        bindKeyboardEvents() {
+            document.addEventListener('keydown', (event) => {
+                if (event.key === 'Enter' && event.target.matches(CONFIG.selectors.buyButton)) {
+                    event.preventDefault();
+                    this.handleBuyClick({ target: event.target });
+                }
+            });
+        },
+        
+        // Observa cambios de página (SPA support)
+        observePageChanges() {
+            let currentUrl = window.location.href;
+            
+            const checkUrlChange = Utils.throttle(() => {
+                if (window.location.href !== currentUrl) {
+                    currentUrl = window.location.href;
+                    Cache.clear();
+                    
+                    // Re-inicializar después de cambio de página
+                    setTimeout(() => {
+                        this.observeCarousels();
+                    }, 500);
+                }
+            }, 1000);
+            
+            // Observer para cambios en el DOM
+            const observer = new MutationObserver(checkUrlChange);
+            observer.observe(document.body, { childList: true, subtree: true });
+        }
+    };
+    
+    // ============================================================================
+    // INICIALIZACIÓN GLOBAL
+    // ============================================================================
+    
+    // Inicializar cuando el DOM esté listo
+    function initializeProducts() {
+        try {
+            ProductsController.init();
+            console.log('✅ WhatsApp Products Integration initialized successfully');
+        } catch (error) {
+            console.error('❌ Error initializing WhatsApp Products:', error);
+        }
+    }
+    
+    // Auto-inicialización
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initializeProducts);
+    } else {
+        // DOM ya está listo
+        setTimeout(initializeProducts, 100);
+    }
+    
+    // Cleanup al cerrar la página
+    window.addEventListener('beforeunload', () => {
+        Cache.clear();
+    });
+    
+    // API pública para debugging y extensiones
+    window.BloggerProducts = {
+        config: CONFIG,
+        detector: ProductDetector,
+        whatsapp: WhatsAppIntegration,
+        badges: BadgeManager,
+        controller: ProductsController,
+        cache: Cache,
+        utils: Utils
+    };
+    
+})(); 
+/* ]]> */</script> 
