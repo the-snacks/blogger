@@ -1,0 +1,991 @@
+<div class="blogPts">
+<article class="ntry noThmb">
+<div class="pThmb nul">
+<div class="thmb">
+<span class="imgThm" data-text="No image"></span>
+</div>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy loaded" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="" style="background-image: url(&quot;//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png&quot;);">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="posts vacío aqui" href="https://elixirofthelazy.blogspot.com/2025/09/posts-vacio-aqui.html" rel="bookmark">
+posts vacío aqui
+</a>
+</h2>
+<div class="pSnpt">
+Lorem ipsum dolor sit amet consectetur adipiscing elit duis potenti sodales, morbi curae suscipit commodo nulla sollicitudin cursus accumsan integer,…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/09/posts-vacio-aqui.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/09/posts-vacio-aqui.html"
+                            },
+                            "headline": "posts vacío aqui",
+                            "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit duis potenti sodales, morbi curae suscipit commodo nulla sollicitudin cursus accumsan integer, viverra tempus semper purus netus tincidunt pharetra ut ultricies. Laoreet enim parturient egestas &#8230;",
+                            
+                            "datePublished": "2025-09-18T00:19:00-04:00",
+                            "dateModified": "2025-09-27T00:07:12-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://1.bp.blogspot.com/-E250bQMM8tk/XomH5DdorOI/AAAAAAAAPY8/SCYwi79WjckWC8wHKK7OblI82BpT9JquACNcBGAsYHQ/s1600/jagotheme-img.png",
+                              "height": 348,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/give-credit-where-its-due-add-post.html">
+<img alt="Give Credit Where It’s Due: Add Post References with Style and Ease" class="imgThm lazy loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-XKvwydnErOwMaSsigYvgUdLD-Rx7x58hs6Goznby-RqP9z5858hJAnjUqZuQjIN_1fh52FOfWcjeLbM4F0JvdTgNagjDSAfn6HPe2skSQqgsjuFy4Q-DISDMTchSzek_Vsvft4UmSkDwbswGpu2rC26i8vFHLe5dquWjRiKCk5-rOLwQyLf-DCYP6o/w600-h300-p-k-no-nu/2.webp" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-XKvwydnErOwMaSsigYvgUdLD-Rx7x58hs6Goznby-RqP9z5858hJAnjUqZuQjIN_1fh52FOfWcjeLbM4F0JvdTgNagjDSAfn6HPe2skSQqgsjuFy4Q-DISDMTchSzek_Vsvft4UmSkDwbswGpu2rC26i8vFHLe5dquWjRiKCk5-rOLwQyLf-DCYP6o/w600-h300-p-k-no-nu/2.webp" lazied="">
+<noscript><img alt='Give Credit Where It’s Due: Add Post References with Style and Ease' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-XKvwydnErOwMaSsigYvgUdLD-Rx7x58hs6Goznby-RqP9z5858hJAnjUqZuQjIN_1fh52FOfWcjeLbM4F0JvdTgNagjDSAfn6HPe2skSQqgsjuFy4Q-DISDMTchSzek_Vsvft4UmSkDwbswGpu2rC26i8vFHLe5dquWjRiKCk5-rOLwQyLf-DCYP6o/w600-h300-p-k-no-nu/2.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy loaded" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="" style="background-image: url(&quot;//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png&quot;);">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Give Credit Where It’s Due: Add Post References with Style and Ease" href="https://elixirofthelazy.blogspot.com/2025/07/give-credit-where-its-due-add-post.html" rel="bookmark">
+Give Credit Where It’s Due: Add Post References with Style and Ease
+</a>
+</h2>
+<div class="pSnpt">
+Post Reference  In the academic field, a reference is the inclusion in our work of an idea that has been presented in the work of another person. W…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/give-credit-where-its-due-add-post.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/give-credit-where-its-due-add-post.html"
+                            },
+                            "headline": "Give Credit Where It&#8217;s Due: Add Post References with Style and Ease",
+                            "description": "Post Reference  In the academic field, a reference is the inclusion in our work of an idea that has been presented in the work of another person. When we incorporate a reference into our work, it is necessary to attribute due credit by identifying&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:06:00-04:00",
+                            "dateModified": "2025-09-28T21:06:23-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-XKvwydnErOwMaSsigYvgUdLD-Rx7x58hs6Goznby-RqP9z5858hJAnjUqZuQjIN_1fh52FOfWcjeLbM4F0JvdTgNagjDSAfn6HPe2skSQqgsjuFy4Q-DISDMTchSzek_Vsvft4UmSkDwbswGpu2rC26i8vFHLe5dquWjRiKCk5-rOLwQyLf-DCYP6o/w1200-h630-p-k-no-nu/2.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/want-to-share-audio-content-youre-gonna.html">
+<img alt="Do you wanna share some audio? With this audio player, you can do it easily and without any hassle" class="imgThm lazy loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitQA9bDL24xO-rhjXrrLiW34cDVf5JhGr_VTJnQtO5Sq3IAZPapcPqWK4ZcV9_Nj3uUTQcqGVeTWzaCWQtlBGh4BYiwP3UuJi4fuB3LToNS76L1oLKMLtIE33vpdgNgflrao42sieeTzZlQyMpghchuAcoBxCaotHt2fWxaKRGJvMWBz_JQMz-ggJe-OY/w600-h300-p-k-no-nu/Crispy%20sticks.png" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitQA9bDL24xO-rhjXrrLiW34cDVf5JhGr_VTJnQtO5Sq3IAZPapcPqWK4ZcV9_Nj3uUTQcqGVeTWzaCWQtlBGh4BYiwP3UuJi4fuB3LToNS76L1oLKMLtIE33vpdgNgflrao42sieeTzZlQyMpghchuAcoBxCaotHt2fWxaKRGJvMWBz_JQMz-ggJe-OY/w600-h300-p-k-no-nu/Crispy%20sticks.png" lazied="">
+<noscript><img alt='Do you wanna share some audio? With this audio player, you can do it easily and without any hassle' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitQA9bDL24xO-rhjXrrLiW34cDVf5JhGr_VTJnQtO5Sq3IAZPapcPqWK4ZcV9_Nj3uUTQcqGVeTWzaCWQtlBGh4BYiwP3UuJi4fuB3LToNS76L1oLKMLtIE33vpdgNgflrao42sieeTzZlQyMpghchuAcoBxCaotHt2fWxaKRGJvMWBz_JQMz-ggJe-OY/w600-h300-p-k-no-nu/Crispy%20sticks.png'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy loaded" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="" style="background-image: url(&quot;//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png&quot;);">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Do you wanna share some audio? With this audio player, you can do it easily and without any hassle" href="https://elixirofthelazy.blogspot.com/2025/07/want-to-share-audio-content-youre-gonna.html" rel="bookmark">
+Do you wanna share some audio? With this audio player, you can do it easily and without any hassle
+</a>
+</h2>
+<div class="pSnpt">
+Audio Player  Powerful and extremely customizable responsive audio .mp3, Shoutcast and Icecast player for your website, it runs on all major browse…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/want-to-share-audio-content-youre-gonna.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/want-to-share-audio-content-youre-gonna.html"
+                            },
+                            "headline": "Do you wanna share some audio? With this audio player, you can do it easily and without any hassle",
+                            "description": "Audio Player  Powerful and extremely customizable responsive audio .mp3, Shoutcast and Icecast player for your website, it runs on all major browsers and mobile devices like iPhone, iPad, IOS, Android, Windows mobile or desktop.   How it works  Pl&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:06:00-04:00",
+                            "dateModified": "2025-09-01T16:49:20-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitQA9bDL24xO-rhjXrrLiW34cDVf5JhGr_VTJnQtO5Sq3IAZPapcPqWK4ZcV9_Nj3uUTQcqGVeTWzaCWQtlBGh4BYiwP3UuJi4fuB3LToNS76L1oLKMLtIE33vpdgNgflrao42sieeTzZlQyMpghchuAcoBxCaotHt2fWxaKRGJvMWBz_JQMz-ggJe-OY/w1200-h630-p-k-no-nu/Crispy%20sticks.png",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/wow-with-slide-add-dynamic-image.html">
+<img alt="Wow with a Slide: Add Dynamic Image Carousels to Your Blog" class="imgThm lazy loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuaEEL-vTriDbcWxFRANavVE_N-MF4ptoaM2uA7I1OE6XEqMFwgq2SIW9CrgSvF8Bi387m44OXQtdbUN38XbuYnaOwuNfIuNKu4N6NQxiuSqGaBM_19L3PHj-p_ObYtxZ-bIQeJdBU2DDQxLZbeMf0FZfbeUKEYLaGgj-83NjYB2czBekpIuMzX_2W3-8/w600-h300-p-k-no-nu/1b.webp" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuaEEL-vTriDbcWxFRANavVE_N-MF4ptoaM2uA7I1OE6XEqMFwgq2SIW9CrgSvF8Bi387m44OXQtdbUN38XbuYnaOwuNfIuNKu4N6NQxiuSqGaBM_19L3PHj-p_ObYtxZ-bIQeJdBU2DDQxLZbeMf0FZfbeUKEYLaGgj-83NjYB2czBekpIuMzX_2W3-8/w600-h300-p-k-no-nu/1b.webp" lazied="">
+<noscript><img alt='Wow with a Slide: Add Dynamic Image Carousels to Your Blog' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuaEEL-vTriDbcWxFRANavVE_N-MF4ptoaM2uA7I1OE6XEqMFwgq2SIW9CrgSvF8Bi387m44OXQtdbUN38XbuYnaOwuNfIuNKu4N6NQxiuSqGaBM_19L3PHj-p_ObYtxZ-bIQeJdBU2DDQxLZbeMf0FZfbeUKEYLaGgj-83NjYB2czBekpIuMzX_2W3-8/w600-h300-p-k-no-nu/1b.webp'/></noscript>
+</a>
+<div class="iFxd">
+<a aria-label="Comentarios" class="cmnt" data-text="1" href="https://elixirofthelazy.blogspot.com/2025/07/wow-with-slide-add-dynamic-image.html#comment" role="button">
+<svg class="line" viewBox="0 0 24 24"><g transform="translate(2.000000, 2.000000)"><path d="M17.0710351,17.0698449 C14.0159481,20.1263505 9.48959549,20.7867004 5.78630747,19.074012 C5.23960769,18.8538953 1.70113357,19.8338667 0.933341969,19.0669763 C0.165550368,18.2990808 1.14639409,14.7601278 0.926307229,14.213354 C-0.787154393,10.5105699 -0.125888852,5.98259958 2.93020311,2.9270991 C6.83146881,-0.9756997 13.1697694,-0.9756997 17.0710351,2.9270991 C20.9803405,6.8359285 20.9723008,13.1680512 17.0710351,17.0698449 Z"></path></g></svg>
+</a>
+</div>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy loaded" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="" style="background-image: url(&quot;//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png&quot;);">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Wow with a Slide: Add Dynamic Image Carousels to Your Blog" href="https://elixirofthelazy.blogspot.com/2025/07/wow-with-slide-add-dynamic-image.html" rel="bookmark">
+Wow with a Slide: Add Dynamic Image Carousels to Your Blog
+</a>
+</h2>
+<div class="pSnpt">
+Image slider   Ready to impress your visitors? Use the secret weapon to create image slideshows with ease. And offer dynamic content that will dazzle…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/wow-with-slide-add-dynamic-image.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/wow-with-slide-add-dynamic-image.html"
+                            },
+                            "headline": "Wow with a Slide: Add Dynamic Image Carousels to Your Blog",
+                            "description": "Image slider   Ready to impress your visitors? Use the secret weapon to create image slideshows with ease. And offer dynamic content that will dazzle your users.   How it works  slider that looks perfect on desktop, mobile, and tablet. Slider dramat&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:05:00-04:00",
+                            "dateModified": "2025-09-28T20:24:56-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuaEEL-vTriDbcWxFRANavVE_N-MF4ptoaM2uA7I1OE6XEqMFwgq2SIW9CrgSvF8Bi387m44OXQtdbUN38XbuYnaOwuNfIuNKu4N6NQxiuSqGaBM_19L3PHj-p_ObYtxZ-bIQeJdBU2DDQxLZbeMf0FZfbeUKEYLaGgj-83NjYB2czBekpIuMzX_2W3-8/w1200-h630-p-k-no-nu/1b.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/speed-up-your-blog-use-youtube-previews.html">
+<img alt="Speed Up Your Blog: Use YouTube Previews to Improve Load Time" class="imgThm lazy loaded" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3ZCbBGkvC1OoRu-xj74diQUC9xXb9zpE1QGJqxdkT9iqdlVjI5xctXddpTZPaUJX_4Si3X715xduuN6F4Byrj9ym4Pp4N-pL3JcFoi0awUy8eK1G60i0Kh207NZIdq1HeG3-UnuqlVFlKNeTowPKtTJl4RMWBm23C1hwgATp_VNvD9d8MSEPKpS8Y3Y/w600-h300-p-k-no-nu/3.webp" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3ZCbBGkvC1OoRu-xj74diQUC9xXb9zpE1QGJqxdkT9iqdlVjI5xctXddpTZPaUJX_4Si3X715xduuN6F4Byrj9ym4Pp4N-pL3JcFoi0awUy8eK1G60i0Kh207NZIdq1HeG3-UnuqlVFlKNeTowPKtTJl4RMWBm23C1hwgATp_VNvD9d8MSEPKpS8Y3Y/w600-h300-p-k-no-nu/3.webp" lazied="">
+<noscript><img alt='Speed Up Your Blog: Use YouTube Previews to Improve Load Time' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3ZCbBGkvC1OoRu-xj74diQUC9xXb9zpE1QGJqxdkT9iqdlVjI5xctXddpTZPaUJX_4Si3X715xduuN6F4Byrj9ym4Pp4N-pL3JcFoi0awUy8eK1G60i0Kh207NZIdq1HeG3-UnuqlVFlKNeTowPKtTJl4RMWBm23C1hwgATp_VNvD9d8MSEPKpS8Y3Y/w600-h300-p-k-no-nu/3.webp'/></noscript>
+</a>
+<div class="iFxd">
+<a aria-label="Comentarios" class="cmnt" data-text="1" href="https://elixirofthelazy.blogspot.com/2025/07/speed-up-your-blog-use-youtube-previews.html#comment" role="button">
+<svg class="line" viewBox="0 0 24 24"><g transform="translate(2.000000, 2.000000)"><path d="M17.0710351,17.0698449 C14.0159481,20.1263505 9.48959549,20.7867004 5.78630747,19.074012 C5.23960769,18.8538953 1.70113357,19.8338667 0.933341969,19.0669763 C0.165550368,18.2990808 1.14639409,14.7601278 0.926307229,14.213354 C-0.787154393,10.5105699 -0.125888852,5.98259958 2.93020311,2.9270991 C6.83146881,-0.9756997 13.1697694,-0.9756997 17.0710351,2.9270991 C20.9803405,6.8359285 20.9723008,13.1680512 17.0710351,17.0698449 Z"></path></g></svg>
+</a>
+</div>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy loaded" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="" style="background-image: url(&quot;//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png&quot;);">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Speed Up Your Blog: Use YouTube Previews to Improve Load Time" href="https://elixirofthelazy.blogspot.com/2025/07/speed-up-your-blog-use-youtube-previews.html" rel="bookmark">
+Speed Up Your Blog: Use YouTube Previews to Improve Load Time
+</a>
+</h2>
+<div class="pSnpt">
+Lazy Youtube  Lazy YouTube is a technique in which, using a script, certain elements of a website are configured so that YouTube videos load only w…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/speed-up-your-blog-use-youtube-previews.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/speed-up-your-blog-use-youtube-previews.html"
+                            },
+                            "headline": "Speed Up Your Blog: Use YouTube Previews to Improve Load Time",
+                            "description": "Lazy Youtube  Lazy YouTube is a technique in which, using a script, certain elements of a website are configured so that YouTube videos load only when necessary. Thus, the page only presents what the user can see on their screen, maximizing respon&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:05:00-04:00",
+                            "dateModified": "2025-08-21T19:11:18-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3ZCbBGkvC1OoRu-xj74diQUC9xXb9zpE1QGJqxdkT9iqdlVjI5xctXddpTZPaUJX_4Si3X715xduuN6F4Byrj9ym4Pp4N-pL3JcFoi0awUy8eK1G60i0Kh207NZIdq1HeG3-UnuqlVFlKNeTowPKtTJl4RMWBm23C1hwgATp_VNvD9d8MSEPKpS8Y3Y/w1200-h630-p-k-no-nu/3.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/sharing-is-key-show-code-blocks-with.html">
+<img alt="Sharing Is Key: Show Code Blocks with Style and Clarity" class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgE0i7uO3ORAtxdwxfyYkM32N6fyfTjIBvDLD-B1haW0_J14RMmE50hQeCBgsD3CBuwj1TbeNMPSNs34qu9e10FphsxvcE5hsu1EZ0cP4V-gMKM9WA260aPrEqASPUrUSBogqYhIIZqKBmckGDQG3Ec1aPIZr5fSu5GuwrrGwId3O77-orGhGHa3TGkI/w600-h300-p-k-no-nu/8.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Sharing Is Key: Show Code Blocks with Style and Clarity' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgE0i7uO3ORAtxdwxfyYkM32N6fyfTjIBvDLD-B1haW0_J14RMmE50hQeCBgsD3CBuwj1TbeNMPSNs34qu9e10FphsxvcE5hsu1EZ0cP4V-gMKM9WA260aPrEqASPUrUSBogqYhIIZqKBmckGDQG3Ec1aPIZr5fSu5GuwrrGwId3O77-orGhGHa3TGkI/w600-h300-p-k-no-nu/8.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Sharing Is Key: Show Code Blocks with Style and Clarity" href="https://elixirofthelazy.blogspot.com/2025/07/sharing-is-key-show-code-blocks-with.html" rel="bookmark">
+Sharing Is Key: Show Code Blocks with Style and Clarity
+</a>
+</h2>
+<div class="pSnpt">
+Code blocks  Code blocks are useful for demonstrating programming concepts, sharing code with other developers or maintaining your own library of c…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/sharing-is-key-show-code-blocks-with.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/sharing-is-key-show-code-blocks-with.html"
+                            },
+                            "headline": "Sharing Is Key: Show Code Blocks with Style and Clarity",
+                            "description": "Code blocks  Code blocks are useful for demonstrating programming concepts, sharing code with other developers or maintaining your own library of code snippets. It is also very easy to copy code to the clipboard and use it elsewhere.   How it work&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:04:00-04:00",
+                            "dateModified": "2025-08-21T19:14:31-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZgE0i7uO3ORAtxdwxfyYkM32N6fyfTjIBvDLD-B1haW0_J14RMmE50hQeCBgsD3CBuwj1TbeNMPSNs34qu9e10FphsxvcE5hsu1EZ0cP4V-gMKM9WA260aPrEqASPUrUSBogqYhIIZqKBmckGDQG3Ec1aPIZr5fSu5GuwrrGwId3O77-orGhGHa3TGkI/w1200-h630-p-k-no-nu/8.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/improve-experience-organize-your.html">
+<img alt="Make your blog cleaner and easier to read — use a handy accordion to keep things organized" class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGZ2eWuNfT65e1cH1kMpWmZdBvRfnnNvMB_Q6JOPqjrpHt7mMpM1qnZcOqcqVL6B1FgsX4iEBUJEkrr2bo6w5-dMxgPdJ5ZBZJi8uot1dos5UjLXjP4iXnWVxONn0FRwiQsnB3pQwavT26SHfhEqmWSwyzHzRfdOBrzDBEOZJBr4KMOPnYEpK7jJUz0GE/w600-h300-p-k-no-nu/7.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Make your blog cleaner and easier to read — use a handy accordion to keep things organized' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGZ2eWuNfT65e1cH1kMpWmZdBvRfnnNvMB_Q6JOPqjrpHt7mMpM1qnZcOqcqVL6B1FgsX4iEBUJEkrr2bo6w5-dMxgPdJ5ZBZJi8uot1dos5UjLXjP4iXnWVxONn0FRwiQsnB3pQwavT26SHfhEqmWSwyzHzRfdOBrzDBEOZJBr4KMOPnYEpK7jJUz0GE/w600-h300-p-k-no-nu/7.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Make your blog cleaner and easier to read — use a handy accordion to keep things organized" href="https://elixirofthelazy.blogspot.com/2025/07/improve-experience-organize-your.html" rel="bookmark">
+Make your blog cleaner and easier to read — use a handy accordion to keep things organized
+</a>
+</h2>
+<div class="pSnpt">
+Accordions  An accordion can be described as an element that when clicked on the screen expands to expose or show hidden information, it often succ…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/improve-experience-organize-your.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/improve-experience-organize-your.html"
+                            },
+                            "headline": "Make your blog cleaner and easier to read &#8212; use a handy accordion to keep things organized",
+                            "description": "Accordions  An accordion can be described as an element that when clicked on the screen expands to expose or show hidden information, it often successfully solves the problem of displaying too much content in too small screen spaces.   How it work&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:04:00-04:00",
+                            "dateModified": "2025-08-21T19:14:10-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGZ2eWuNfT65e1cH1kMpWmZdBvRfnnNvMB_Q6JOPqjrpHt7mMpM1qnZcOqcqVL6B1FgsX4iEBUJEkrr2bo6w5-dMxgPdJ5ZBZJi8uot1dos5UjLXjP4iXnWVxONn0FRwiQsnB3pQwavT26SHfhEqmWSwyzHzRfdOBrzDBEOZJBr4KMOPnYEpK7jJUz0GE/w1200-h630-p-k-no-nu/7.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/click-with-style-add-beautiful-buttons.html">
+<img alt="Click with Style: Add Beautiful Buttons and Links That Work" class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1DF2VwgRozg4jV-JCgR2WXrraDszozHlv5i54wOQCxynQXiVcgFJ53DcmPhW7gddhDZ8PMOFNEZtl9GGKpLblan-YsUOJ2M1vHeg_qdQnKFpJjHTIzA8CCOSbhn3U7enN3P6uqCZJ_o-N1-8kEP_jVWqU98t3ARs8L_PrqqCtjvzf_3deLM1QTouIkQ/w600-h300-p-k-no-nu/6.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Click with Style: Add Beautiful Buttons and Links That Work' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1DF2VwgRozg4jV-JCgR2WXrraDszozHlv5i54wOQCxynQXiVcgFJ53DcmPhW7gddhDZ8PMOFNEZtl9GGKpLblan-YsUOJ2M1vHeg_qdQnKFpJjHTIzA8CCOSbhn3U7enN3P6uqCZJ_o-N1-8kEP_jVWqU98t3ARs8L_PrqqCtjvzf_3deLM1QTouIkQ/w600-h300-p-k-no-nu/6.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Click with Style: Add Beautiful Buttons and Links That Work" href="https://elixirofthelazy.blogspot.com/2025/07/click-with-style-add-beautiful-buttons.html" rel="bookmark">
+Click with Style: Add Beautiful Buttons and Links That Work
+</a>
+</h2>
+<div class="pSnpt">
+Buttons and Links  A button within a web page allows you to perform different actions within it, from requesting information to sending a form. Tha…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/click-with-style-add-beautiful-buttons.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/click-with-style-add-beautiful-buttons.html"
+                            },
+                            "headline": "Click with Style: Add Beautiful Buttons and Links That Work",
+                            "description": "Buttons and Links  A button within a web page allows you to perform different actions within it, from requesting information to sending a form. That is why it is essential that the buttons are well designed and their code is correct.   How it work&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:04:00-04:00",
+                            "dateModified": "2025-08-21T19:13:48-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1DF2VwgRozg4jV-JCgR2WXrraDszozHlv5i54wOQCxynQXiVcgFJ53DcmPhW7gddhDZ8PMOFNEZtl9GGKpLblan-YsUOJ2M1vHeg_qdQnKFpJjHTIzA8CCOSbhn3U7enN3P6uqCZJ_o-N1-8kEP_jVWqU98t3ARs8L_PrqqCtjvzf_3deLM1QTouIkQ/w1200-h630-p-k-no-nu/6.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/make-your-paragraphs-pop-add-easy-to.html">
+<img alt="Make Your Paragraphs Pop: Add Easy-to-Use Drop Caps and Make a Great First Impression" class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTM9mZrTKGRjCN3vfP5ShNJoQtr16eQFP4OJ_Pslp08G3clwJw-l0OEGVSa2CjaAkpT2d0Nnrv6rDUqfLEhkllAloLxdATj8idneIDDxazOvVEvlH3kirtn-lhSdOymVwRVDxPuQx-n_Lr3wx4CPPYwKAJPY4N4yyPVnT1bwsC9NQLIMOf9TQ-Xc5MzI/w600-h300-p-k-no-nu/5.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Make Your Paragraphs Pop: Add Easy-to-Use Drop Caps and Make a Great First Impression' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTM9mZrTKGRjCN3vfP5ShNJoQtr16eQFP4OJ_Pslp08G3clwJw-l0OEGVSa2CjaAkpT2d0Nnrv6rDUqfLEhkllAloLxdATj8idneIDDxazOvVEvlH3kirtn-lhSdOymVwRVDxPuQx-n_Lr3wx4CPPYwKAJPY4N4yyPVnT1bwsC9NQLIMOf9TQ-Xc5MzI/w600-h300-p-k-no-nu/5.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Make Your Paragraphs Pop: Add Easy-to-Use Drop Caps and Make a Great First Impression" href="https://elixirofthelazy.blogspot.com/2025/07/make-your-paragraphs-pop-add-easy-to.html" rel="bookmark">
+Make Your Paragraphs Pop: Add Easy-to-Use Drop Caps and Make a Great First Impression
+</a>
+</h2>
+<div class="pSnpt">
+Drop cap  Drop caps are a common styling technique in printed books and long-read magazines. Use a large font size for the first letter of the para…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/make-your-paragraphs-pop-add-easy-to.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/make-your-paragraphs-pop-add-easy-to.html"
+                            },
+                            "headline": "Make Your Paragraphs Pop: Add Easy-to-Use Drop Caps and Make a Great First Impression",
+                            "description": "Drop cap  Drop caps are a common styling technique in printed books and long-read magazines. Use a large font size for the first letter of the paragraph that begins each article. hey are used to increase readability by marking specific passages an&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:04:00-04:00",
+                            "dateModified": "2025-08-21T19:13:25-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTM9mZrTKGRjCN3vfP5ShNJoQtr16eQFP4OJ_Pslp08G3clwJw-l0OEGVSa2CjaAkpT2d0Nnrv6rDUqfLEhkllAloLxdATj8idneIDDxazOvVEvlH3kirtn-lhSdOymVwRVDxPuQx-n_Lr3wx4CPPYwKAJPY4N4yyPVnT1bwsC9NQLIMOf9TQ-Xc5MzI/w1200-h630-p-k-no-nu/5.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/make-it-pop-add-eye-catching-notes-to.html">
+<img alt="Make It Pop: Add Eye-Catching Notes to Your Posts in Seconds—No Hassle" class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi68WQ5UspnMgUflq3FG1t2AEnUeuqXjJ8U2nJ7bHZFEViTy3-bbJ_lt2lNaWTNZyPzqJSGsIy0kQKjV4hDvs3Xyp5-lmAO0IXBLcE8DkVmKMsDWcg8rWm6_pgv2BVhi_HVEr7w5IdeWthwZVAVAT1_vERPqllLllUJmGGXKHZe6ICnlO9Ki0JBJY-dQvg/w600-h300-p-k-no-nu/10.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Make It Pop: Add Eye-Catching Notes to Your Posts in Seconds—No Hassle' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi68WQ5UspnMgUflq3FG1t2AEnUeuqXjJ8U2nJ7bHZFEViTy3-bbJ_lt2lNaWTNZyPzqJSGsIy0kQKjV4hDvs3Xyp5-lmAO0IXBLcE8DkVmKMsDWcg8rWm6_pgv2BVhi_HVEr7w5IdeWthwZVAVAT1_vERPqllLllUJmGGXKHZe6ICnlO9Ki0JBJY-dQvg/w600-h300-p-k-no-nu/10.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Make It Pop: Add Eye-Catching Notes to Your Posts in Seconds—No Hassle" href="https://elixirofthelazy.blogspot.com/2025/07/make-it-pop-add-eye-catching-notes-to.html" rel="bookmark">
+Make It Pop: Add Eye-Catching Notes to Your Posts in Seconds—No Hassle
+</a>
+</h2>
+<div class="pSnpt">
+Alert Messages  Alerts are very useful to show the user an informative message, a correct event, an incorrect or erroneous event and/or an alert am…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/make-it-pop-add-eye-catching-notes-to.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/make-it-pop-add-eye-catching-notes-to.html"
+                            },
+                            "headline": "Make It Pop: Add Eye-Catching Notes to Your Posts in Seconds&#8212;No Hassle",
+                            "description": "Alert Messages  Alerts are very useful to show the user an informative message, a correct event, an incorrect or erroneous event and/or an alert among others.   How it works  There are many ways and styles to display this type of alerts. The main &#8230;",
+                            
+                            "datePublished": "2025-07-23T00:03:00-04:00",
+                            "dateModified": "2025-09-28T20:40:18-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi68WQ5UspnMgUflq3FG1t2AEnUeuqXjJ8U2nJ7bHZFEViTy3-bbJ_lt2lNaWTNZyPzqJSGsIy0kQKjV4hDvs3Xyp5-lmAO0IXBLcE8DkVmKMsDWcg8rWm6_pgv2BVhi_HVEr7w5IdeWthwZVAVAT1_vERPqllLllUJmGGXKHZe6ICnlO9Ki0JBJY-dQvg/w1200-h630-p-k-no-nu/10.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/style-your-content-create-comparison.html">
+<img alt="Style Your Content: Create Comparison, Pricing, and List Tables with Simple, Headache-Free Code" class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZgosuegj6tizrsmjdCEibgLzgNmH5nDq55zzCuQIoOrAJK9lV0G3rjc6MPBz9f5l3UStYMHavm-UI-253hRNXEDZ4EWKdGbbh_aOLIQacyUvvafyMBM3hP-XJxHlOPPp4bUvCyPdMXAy9RkEXGVyoboJ8mC6cgqtzMTDNRFm4XrD-qcltQ2apM2nKTkA/w600-h300-p-k-no-nu/9.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Style Your Content: Create Comparison, Pricing, and List Tables with Simple, Headache-Free Code' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZgosuegj6tizrsmjdCEibgLzgNmH5nDq55zzCuQIoOrAJK9lV0G3rjc6MPBz9f5l3UStYMHavm-UI-253hRNXEDZ4EWKdGbbh_aOLIQacyUvvafyMBM3hP-XJxHlOPPp4bUvCyPdMXAy9RkEXGVyoboJ8mC6cgqtzMTDNRFm4XrD-qcltQ2apM2nKTkA/w600-h300-p-k-no-nu/9.webp'/></noscript>
+</a>
+<div class="iFxd">
+<a aria-label="Comentarios" class="cmnt" data-text="1" href="https://elixirofthelazy.blogspot.com/2025/07/style-your-content-create-comparison.html#comment" role="button">
+<svg class="line" viewBox="0 0 24 24"><g transform="translate(2.000000, 2.000000)"><path d="M17.0710351,17.0698449 C14.0159481,20.1263505 9.48959549,20.7867004 5.78630747,19.074012 C5.23960769,18.8538953 1.70113357,19.8338667 0.933341969,19.0669763 C0.165550368,18.2990808 1.14639409,14.7601278 0.926307229,14.213354 C-0.787154393,10.5105699 -0.125888852,5.98259958 2.93020311,2.9270991 C6.83146881,-0.9756997 13.1697694,-0.9756997 17.0710351,2.9270991 C20.9803405,6.8359285 20.9723008,13.1680512 17.0710351,17.0698449 Z"></path></g></svg>
+</a>
+</div>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Style Your Content: Create Comparison, Pricing, and List Tables with Simple, Headache-Free Code" href="https://elixirofthelazy.blogspot.com/2025/07/style-your-content-create-comparison.html" rel="bookmark">
+Style Your Content: Create Comparison, Pricing, and List Tables with Simple, Headache-Free Code
+</a>
+</h2>
+<div class="pSnpt">
+Tables  A table is a structured set of data distributed in rows and columns, allowing you to quickly and easily find values between different types…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/style-your-content-create-comparison.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/style-your-content-create-comparison.html"
+                            },
+                            "headline": "Style Your Content: Create Comparison, Pricing, and List Tables with Simple, Headache-Free Code",
+                            "description": "Tables  A table is a structured set of data distributed in rows and columns, allowing you to quickly and easily find values between different types of data that indicate some type of connection. For example, a person and their age, or a day of the&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:03:00-04:00",
+                            "dateModified": "2025-08-21T19:14:54-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZgosuegj6tizrsmjdCEibgLzgNmH5nDq55zzCuQIoOrAJK9lV0G3rjc6MPBz9f5l3UStYMHavm-UI-253hRNXEDZ4EWKdGbbh_aOLIQacyUvvafyMBM3hP-XJxHlOPPp4bUvCyPdMXAy9RkEXGVyoboJ8mC6cgqtzMTDNRFm4XrD-qcltQ2apM2nKTkA/w1200-h630-p-k-no-nu/9.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/step-it-up-add-stylish-instructions-to.html">
+<img alt="Step up your game: add cool-looking instructions to your posts — quick and easy, no hassle." class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4tEZsCkFHfor0Cgbh-yYAc_pu_vXYlSsxKiaHt4OVi9x-37AU_brIR38Sr0JbkuOCW1yYadhsHUg7zdKb-HTQaKtshU5omJ1zb0ybd44FWZ318wcQQemCwmGijHWKoMqXr8JXLkcnhK7yrWquEWH2cL51-04D3FTNnDTHZeW4xHRQ6j1pTXO4v4JygGs/w600-h300-p-k-no-nu/11.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Step up your game: add cool-looking instructions to your posts — quick and easy, no hassle.' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4tEZsCkFHfor0Cgbh-yYAc_pu_vXYlSsxKiaHt4OVi9x-37AU_brIR38Sr0JbkuOCW1yYadhsHUg7zdKb-HTQaKtshU5omJ1zb0ybd44FWZ318wcQQemCwmGijHWKoMqXr8JXLkcnhK7yrWquEWH2cL51-04D3FTNnDTHZeW4xHRQ6j1pTXO4v4JygGs/w600-h300-p-k-no-nu/11.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Step up your game: add cool-looking instructions to your posts — quick and easy, no hassle." href="https://elixirofthelazy.blogspot.com/2025/07/step-it-up-add-stylish-instructions-to.html" rel="bookmark">
+Step up your game: add cool-looking instructions to your posts — quick and easy, no hassle.
+</a>
+</h2>
+<div class="pSnpt">
+Step-by-step  Step-by-step instructions are intended to teach us how to do something. For example: A cooking recipe, how to knit a sweater, etc. To…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/step-it-up-add-stylish-instructions-to.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/step-it-up-add-stylish-instructions-to.html"
+                            },
+                            "headline": "Step up your game: add cool-looking instructions to your posts &#8212; quick and easy, no hassle.",
+                            "description": "Step-by-step  Step-by-step instructions are intended to teach us how to do something. For example: A cooking recipe, how to knit a sweater, etc. To inform about some fact or event of public interest. Its function is to provide information, indicat&#8230;",
+                            
+                            "datePublished": "2025-07-23T00:02:00-04:00",
+                            "dateModified": "2025-08-21T19:16:20-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4tEZsCkFHfor0Cgbh-yYAc_pu_vXYlSsxKiaHt4OVi9x-37AU_brIR38Sr0JbkuOCW1yYadhsHUg7zdKb-HTQaKtshU5omJ1zb0ybd44FWZ318wcQQemCwmGijHWKoMqXr8JXLkcnhK7yrWquEWH2cL51-04D3FTNnDTHZeW4xHRQ6j1pTXO4v4JygGs/w1200-h630-p-k-no-nu/11.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+<article class="ntry">
+<div class="pThmb">
+<a class="thmb" href="https://elixirofthelazy.blogspot.com/2025/07/showing-your-content-in-columns-is.html">
+<img alt="Showing your content in columns is super easy. Let me show you the trick — no fuss, no hassle!" class="imgThm lazy" data-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpRQ32maC7CtegIWlkTGGR66bGXrSIxU3jCV3UbdumMjv2Ez85EDe9aeqZWTM_3-foJXi6l9yH9dLQqumenJjIfAy5DxOYk2IylpEBAEftIX3LifZqpJDIX4-cbNr1Fd9HR6vU3VWDoQ8jYMp5Lulxh8awDbRprwLLSenln8PZ0MPlAIeDfUFMnwreUHo/w600-h300-p-k-no-nu/12.webp" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=" lazied="">
+<noscript><img alt='Showing your content in columns is super easy. Let me show you the trick — no fuss, no hassle!' class='imgThm' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpRQ32maC7CtegIWlkTGGR66bGXrSIxU3jCV3UbdumMjv2Ez85EDe9aeqZWTM_3-foJXi6l9yH9dLQqumenJjIfAy5DxOYk2IylpEBAEftIX3LifZqpJDIX4-cbNr1Fd9HR6vU3VWDoQ8jYMp5Lulxh8awDbRprwLLSenln8PZ0MPlAIeDfUFMnwreUHo/w600-h300-p-k-no-nu/12.webp'/></noscript>
+</a>
+</div>
+<div class="pCntn">
+<div class="pHdr pSml">
+<div class="aIm">
+<div class="im lazy" data-style="background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)" lazied="">
+</div>
+<noscript><div class='im' style='background-image: url(//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/w20-h20-p-k-no-nu/snacks.png)'></div></noscript>
+</div>
+<div class="aNm">
+<bdi class="nm" data-text="Editor" data-write="Oleh"></bdi>
+<div class="pLbls" data-text="in">
+<span data-text="Styles Guide">
+</span>
+</div>
+</div>
+</div>
+<h2 class="pTtl aTtl">
+<a data-text="Showing your content in columns is super easy. Let me show you the trick — no fuss, no hassle!" href="https://elixirofthelazy.blogspot.com/2025/07/showing-your-content-in-columns-is.html" rel="bookmark">
+Showing your content in columns is super easy. Let me show you the trick — no fuss, no hassle!
+</a>
+</h2>
+<div class="pSnpt">
+Columns  Dividing content into columns helps create a clean and orderly visual structure. You can group related information, highlight important el…
+</div>
+<div class="pInf pSml">
+<a aria-label="Read more »" class="pJmp" data-text="Seguir leyendo" href="https://elixirofthelazy.blogspot.com/2025/07/showing-your-content-in-columns-is.html"></a>
+</div>
+<script type="application/ld+json">
+                          {
+                            "@context": "http://schema.org",
+                            "@type": "BlogPosting",
+                            "mainEntityOfPage": {
+                              "@type": "WebPage",
+                              "@id": "https://elixirofthelazy.blogspot.com/2025/07/showing-your-content-in-columns-is.html"
+                            },
+                            "headline": "Showing your content in columns is super easy. Let me show you the trick &#8212; no fuss, no hassle!",
+                            "description": "Columns  Dividing content into columns helps create a clean and orderly visual structure. You can group related information, highlight important elements and guide the reader\u0026#39;s eye intuitively. This improves comprehension because the brain pro&#8230;",
+                            
+                            "datePublished": "2025-07-20T21:42:00-04:00",
+                            "dateModified": "2025-09-28T20:52:42-04:00",
+                            
+                            "image": {
+                              "@type": "ImageObject",
+                              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpRQ32maC7CtegIWlkTGGR66bGXrSIxU3jCV3UbdumMjv2Ez85EDe9aeqZWTM_3-foJXi6l9yH9dLQqumenJjIfAy5DxOYk2IylpEBAEftIX3LifZqpJDIX4-cbNr1Fd9HR6vU3VWDoQ8jYMp5Lulxh8awDbRprwLLSenln8PZ0MPlAIeDfUFMnwreUHo/w1200-h630-p-k-no-nu/12.webp",
+                              "height": 630,
+                              "width": 1200
+                            },
+                      
+                            "publisher": {
+                              "@type": "Organization",
+                              "name": "🍕 Elixir of the Lazy",
+                              "logo": {
+                                "@type": "ImageObject",
+                                "url": "https://1.bp.blogspot.com/-50s1RMWV7jI/X8OaYjJcMiI/AAAAAAAAQK4/sWcpbaP0Sq0hsW473Vnb8AyBvYvdSQEPwCNcBGAsYHQ/s0/jd-logo.png",
+                                "width": 297,
+                                "height": 45
+                              }
+                            },
+                      
+                            "author": {
+                              "@type": "Person",
+                              "name": "Editor",
+                              "url": "https://elixirofthelazy.blogspot.com/",
+                              "image": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVnQQhs7bFJrTtwB-vaeavjo5M4N5e57qjvoXMPCTVg5eu22SrL_T2G6_rJG6BTDiysXrhMwMQryf56Vkl4H9MWqeuXGwyog7cFVkzgspSXEG2EVf8NqAzIx_WjyAy13vo3E_lURiE6EhdYz0Gmg-5ASc3ESm0T2goyvsyiopb_A8VFbs/s220/snacks.png"
+                            }
+                          }
+                        </script>
+</div>
+</article>
+</div>
