@@ -3,10 +3,9 @@
 
 
 @font-face {
-    font-family: 'poppy_finelinerregular';
-    src: url('poppy-fineliner-regular-webfont.woff2') format('woff2'),
-         url('poppy-fineliner-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
+font-display:block;
+font-family:"Poppy Fineliner Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Poppy-Fineliner-Regular.8accc16.woff2) format("woff2"),url(/fonts/Poppy-Fineliner-Regular.8437478.woff) format("woff")
 }
