@@ -1,0 +1,7 @@
+@font-face {
+font-display:block;
+font-family:"Infamous Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Infamous-Regular.woff2) format("woff2"),url(/fonts/Infamous-Regular.woff) format("woff")
+}
