@@ -1,0 +1,15 @@
+@font-face {
+font-display:block;
+font-family:"Ugly Dave Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Ugly-Dave-Regular.woff2) format("woff2"),url(/fonts/Ugly-Dave-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"Ugly Dave Alternates";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Ugly-Dave-Alternates-Regular.woff2) format("woff2"),url(/fonts/Ugly-Dave-Alternates-Regular.woff) format("woff")
+}

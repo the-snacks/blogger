@@ -1,0 +1,7 @@
+@font-face {
+font-display:block;
+font-family:"Mrs Pickles Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Mrs-Pickles-Regular.woff2) format("woff2"),url(/fonts/Mrs-Pickles-Regular.woff) format("woff")
+}

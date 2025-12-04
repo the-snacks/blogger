@@ -1,0 +1,7 @@
+@font-face {
+font-display:block;
+font-family:"Pandemonium Regular";
+font-style:normal;
+font-weight:400;
+src:url(t/fonts/Pandemonium-Regular.woff2) format("woff2"),url(/fonts/Pandemonium-Regular.woff) format("woff")
+}

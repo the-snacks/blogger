@@ -1,0 +1,31 @@
+@font-face {
+font-display:block;
+font-family:"Stolen Hand Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Stolen-Hand-Regular.woff2) format("woff2"),url(/fonts/Stolen-Hand-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"Stolen Hand Alternates";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Stolen-Hand-Alternates-Regular.woff2) format("woff2"),url(/fonts/Stolen-Hand-Alternates-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"Stolen Hand Quirky";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Stolen-Hand-Quirky-Regular.woff2) format("woff2"),url(/fonts/Stolen-Hand-Quirky-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"Stolen Hand Sketches";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Stolen-Hand-Sketches.woff2) format("woff2"),url(/fonts/Stolen-Hand-Sketches.woff) format("woff")
+}

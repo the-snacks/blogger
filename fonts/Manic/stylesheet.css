@@ -1,0 +1,39 @@
+@font-face {
+font-display:block;
+font-family:"MANIC Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/MANIC-Regular.woff2) format("woff2"),url(/fonts/MANIC-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"Manic Alternates One";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/MANIC-Alternates1-Regular.woff2) format("woff2"),url(/fonts/MANIC-Alternates1-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"MANIC Alternates Two";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/MANIC-Alternates2-Regular.woff2) format("woff2"),url(/fonts/MANIC-Alternates2-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"MANIC Alternates Three";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/MANIC-Alternates3-Regular.woff2) format("woff2"),url(/fonts/MANIC-Alternates3-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"MANIC Sketches";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/MANIC-Sketches.woff2) format("woff2"),url(/fonts/MANIC-Sketches.woff) format("woff")
+}

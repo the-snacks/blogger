@@ -1,0 +1,7 @@
+@font-face {
+font-display:block;
+font-family:"Juniper Bay Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Juniper-Bay-Regular.woff2) format("woff2"),url(/fonts/Juniper-Bay-Regular.woff) format("woff")
+}

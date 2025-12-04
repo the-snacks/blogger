@@ -1,0 +1,31 @@
+@font-face {
+font-display:block;
+font-family:"LORE Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/LORE-Regular.woff2) format("woff2"),url(/fonts/LORE-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"LORE Bold";
+font-style:normal;
+font-weight:700;
+src:url(/fonts/LORE-Bold.woff2) format("woff2"),url(/fonts/LORE-Bold.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"LORE Alternates Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/LORE-Alternates-Regular.woff2) format("woff2"),url(/fonts/LORE-Alternates-Regular.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"LORE Alternates Bold";
+font-style:normal;
+font-weight:700;
+src:url(/fonts/LORE-Alternates-Bold.woff2) format("woff2"),url(/fonts/LORE-Alternates-Bold.woff) format("woff")
+}

@@ -1,0 +1,7 @@
+@font-face {
+font-display:block;
+font-family:"Marina Regular";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Marina-Script-Regular.woff2) format("woff2"),url(/fonts/Marina-Script-Regular.woff) format("woff")
+}

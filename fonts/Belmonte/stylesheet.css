@@ -1,0 +1,15 @@
+@font-face {
+font-display:block;
+font-family:"Belmonte Ballpoint Print";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Belmonte-Ballpoint-Print.woff2) format("woff2"),url(/fonts/Belmonte-Ballpoint-Print.woff) format("woff")
+}
+
+@font-face {
+font-display:block;
+font-family:"Belmonte Ballpoint Cursive";
+font-style:normal;
+font-weight:400;
+src:url(/fonts/Belmonte-Ballpoint-Cursive.woff2) format("woff2"),url(/fonts/Belmonte-Ballpoint-Cursive.woff) format("woff")
+}
