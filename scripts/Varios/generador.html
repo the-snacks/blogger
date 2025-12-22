@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>G</text></svg>">
+<title>Generador que divide en bloques con hash</title>
+<style>
+  body { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; margin: 20px; }
+  textarea { width: 100%; height: 240px; }
+  .row { display: flex; gap: 16px; }
+  .row > * { flex: 1; }
+  pre { background: #f7f7f7; padding: 12px; border-radius: 6px; overflow: auto; }
+  .small { font-size: 12px; color: #555; }
+</style>
+</head>
+<body>
+<h1>Dividir en bloques + SHA-256</h1>
+<p>Pega el código completo. Escoge tamaño del bloque por caracteres (no por líneas) para evitar cortes invisibles. Genera y copia cada bloque.</p>
+
+<div class="row">
+  <div>
+    <label><strong>Código completo:</strong></label>
+    <textarea id="input"></textarea>
+    <div>
+      <label><strong>Tamaño de bloque (caracteres):</strong>
+        <input id="size" type="number" value="9500" min="1000" step="500" />
+      </label>
+      <button id="split">Generar bloques</button>
+    </div>
+  </div>
+  <div>
+    <label><strong>Índice de bloques:</strong></label>
+    <pre id="index"></pre>
+    <p class="small">Incluye total de caracteres y hash global para validar que el reensamblado es idéntico.</p>
+  </div>
+</div>
+
+<div id="blocks"></div>
+
+<script>
+async function sha256(text) {
+  const enc = new TextEncoder().encode(text);
+  const buf = await crypto.subtle.digest('SHA-256', enc);
+  return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
+}
+document.getElementById('split').onclick = async () => {
+  const input = document.getElementById('input').value;
+  const size = parseInt(document.getElementById('size').value, 10);
+  const totalChars = input.length;
+  const globalHash = await sha256(input);
+  const blocksWrap = document.getElementById('blocks');
+  const index = document.getElementById('index');
+  blocksWrap.innerHTML = '';
+  const blocks = [];
+  for (let i=0, n=0; i<input.length; i+=size, n++) {
+    const part = input.slice(i, i+size);
+    blocks.push(part);
+  }
+  const meta = [];
+  for (let i=0; i<blocks.length; i++) {
+    const part = blocks[i];
+    const hash = await sha256(part);
+    meta.push({ i: i+1, start: i*size, end: i*size + part.length - 1, len: part.length, hash });
+  }
+  index.textContent =
+`Total caracteres: ${totalChars}
+Bloques: ${blocks.length}
+HASH GLOBAL (SHA-256): ${globalHash}
+
+Detalle de bloques:
+${meta.map(m => `#${m.i} [${m.start}-${m.end}] len=${m.len} hash=${m.hash}`).join('\n')}`;
+
+  meta.forEach((m, idx) => {
+    const pre = document.createElement('pre');
+    pre.textContent =
+`--- Bloque ${m.i} / ${meta.length} ---
+offset=${m.start}..${m.end}
+len=${m.len}
+hash=${m.hash}
+<contenido>
+${blocks[idx]}
+</contenido>
+--- Fin Bloque ${m.i} ---`;
+    blocksWrap.appendChild(pre);
+  });
+};
+</script>
+</body>
+</html>
