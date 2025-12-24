@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Bold.woff2') format('woff2'),
+        url('Ioskeley-Mono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Extrabold.woff2') format('woff2'),
+        url('Ioskeley-Mono-Extrabold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Bold-Italic.woff2') format('woff2'),
+        url('Ioskeley-Mono-Bold-Italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Extrabold-Italic.woff2') format('woff2'),
+        url('Ioskeley-Mono-Extrabold-Italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Light.woff2') format('woff2'),
+        url('Ioskeley-Mono-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Italic.woff2') format('woff2'),
+        url('Ioskeley-Mono-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Light-Italic.woff2') format('woff2'),
+        url('Ioskeley-Mono-Light-Italic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Medium-Italic.woff2') format('woff2'),
+        url('Ioskeley-Mono-Medium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Medium.woff2') format('woff2'),
+        url('Ioskeley-Mono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono.woff2') format('woff2'),
+        url('Ioskeley-Mono.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Semibold.woff2') format('woff2'),
+        url('Ioskeley-Mono-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ioskeley Mono';
+    src: url('Ioskeley-Mono-Semibold-Italic.woff2') format('woff2'),
+        url('Ioskeley-Mono-Semibold-Italic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
