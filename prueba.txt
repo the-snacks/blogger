@@ -1,7 +1,0 @@
-
-
-body#layout .headIn div.section {background: #e9f9e2 !important;border: none !important;border-radius: 12px;}
-body#layout .introContent div.section {background: #f8f1fb !important;border: none !important;border-radius: 12px;}
-
-body#layout div.section
-body#layout .introContent
