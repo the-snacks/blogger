@@ -1,0 +1,43 @@
+/* Definición de la familia unificada: 'tx-02' */
+
+@font-face {
+    font-family: 'tx-02';
+    src: url('retina-webfont.woff2') format('woff2');
+    font-weight: 450;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02';
+    src: url('regular-webfont.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02';
+    src: url('medium-webfont.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02';
+    src: url('bold-webfont.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02';
+    src: url('extrabold-webfont.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02';
+    src: url('oblique-webfont.woff2') format('woff2');
+    font-weight: 400; /* Asumiendo que es el peso regular inclinado */
+    font-style: oblique;
+}

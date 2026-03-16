@@ -1,0 +1,71 @@
+/* Familia para versiones SEMI-ESTRECHAS (Semicondensed) */
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('semicondensed-webfont.woff2') format('woff2');
+    font-weight: 400; /* Regular Semicondensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('semicondensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 400;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('retina-semicondensed-webfont.woff2') format('woff2');
+    font-weight: 300; /* Retina Semicondensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('retina-semicondensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 300;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('medium-semicondensed-webfont.woff2') format('woff2');
+    font-weight: 500; /* Medium Semicondensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('medium-semicondensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 500;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('bold-semicondensed-webfont.woff2') format('woff2');
+    font-weight: 700; /* Bold Semicondensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('bold-semicondensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 700;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('extrabold-semicondensed-webfont.woff2') format('woff2');
+    font-weight: 800; /* ExtraBold Semicondensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-semicondensed';
+    src: url('extrabold-semicondensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 800;
+    font-style: oblique;
+}

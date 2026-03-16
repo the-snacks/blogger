@@ -1,0 +1,57 @@
+/* Familia para las versiones ESTRECHAS (Condensed) */
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('retina-condensed-webfont.woff2') format('woff2');
+    font-weight: 450; /* Retina Condensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('retina-condensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 300;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('medium-condensed-webfont.woff2') format('woff2');
+    font-weight: 500; /* Medium Condensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('medium-condensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 500;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('bold-condensed-webfont.woff2') format('woff2');
+    font-weight: 700; /* Bold Condensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('bold-condensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 700;
+    font-style: oblique;
+}
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('extrabold-condensed-webfont.woff2') format('woff2');
+    font-weight: 800; /* ExtraBold Condensed */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tx-02-condensed';
+    src: url('extrabold-condensed-oblique-webfont.woff2') format('woff2');
+    font-weight: 800;
+    font-style: oblique;
+}
